@@ -2,7 +2,7 @@
 The Second Part of UNiTED Project
 This file is password protected. You can contact me to receive the password: msjavadi@gmail.com
 
-Preliminary Version of DRoT#2.
+Final Version of DRoT#2.
 
 In this repository, you can find the Home Energy Management System (HEMS) model. Two identical codes in GAMS and Python are provided. 
 
